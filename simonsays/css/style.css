@@ -216,6 +216,8 @@ a{
   padding:10px;
   text-shadow: 1px 2px 0px white, -1px -2px 0px white;
 }
+a:hover{
+ text-decoration: none}
 body{
   background-image:url(http://www.efurnituremart.com/images/PO/Jaipur-Rugs-Gold-and-Yellow-Solid-Pattern-Shag-Rug---FL11.jpg);
   background-size:cover;
